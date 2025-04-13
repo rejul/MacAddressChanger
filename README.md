@@ -18,5 +18,4 @@ nano README.md  # You can use any text editor (e.g., vim, nano, notepad)
  .\Change-MAC.ps1 -InterfaceName "Wi-Fi" -NewMAC "00A1B2C3D4E5"
  ```
  ========================================
-
- 3. Save and exit the editor
+=
