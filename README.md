@@ -1,7 +1,7 @@
- 1. Create the README.md file
+# 1. Create the README.md file
 nano README.md  # You can use any text editor (e.g., vim, nano, notepad)
 
- 2. Add content to the README.md file
+# 2. Add content to the README.md file
  Here is an example you can copy and paste:
 
  ========================================
